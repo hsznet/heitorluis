@@ -9,12 +9,24 @@
 
 <h2>Tecnologias que estudo:</h2>
 
-<ul>
-  <li>HTML</li>
-  <li>Javascript</li>
-  <li>CSS</li>
-  <li>Python</li>
-  <li>C#</li>
-  <li>Unity</li>
-  <li>Linux</li>
-
+<ul> 
+  📚 <-------------> 📚  
+  <ul>
+    <li>HTML</li>
+    <li>Javascript</li>
+    <li>CSS</li>
+  </ul>  
+  💻 <-------------> 💻
+  <ul>
+    <li>Python</li>
+    <li>C#</li>
+  </ul>
+  🎮 <-------------> 🎮 
+  <ul>
+    <li>Unity</li>
+  </ul>
+  🖥️ <-------------> 🖥️
+  <ul>
+    <li>Linux</li>
+  </ul>
+</ul>
