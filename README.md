@@ -3,7 +3,7 @@
   
 <h3>Estudante de Dev. Web e Análise e Desenvolvimento de Sistemas </h3>
 
-<img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="200%">
+<img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="100%">
 
 <br>
 
