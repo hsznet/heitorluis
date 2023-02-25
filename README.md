@@ -1,7 +1,5 @@
 
 <h1 align="left">Hello! I'm Heitor Zamboni</h1>
-  
-<h3>Student of System Analysis and Software Development</h3>
 
 <img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="100%">
 
