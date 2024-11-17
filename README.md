@@ -26,35 +26,11 @@
     align="left"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
     alt="css"
-    </img></li>
-    <br>
-    <li><img
-    align="left"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="python"
-    </img></li>
-    <br>
-    <li><img
-    align="left"
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-    alt="csharp"
-    </img></li>
-    <br>
+    </img>
   </ul>
-  🎮 <-------------> 🎮 
-  <ul>
-    <li>Unity</li>
-    <li>Godot</li>
-  </ul>
-  🖥️ <-------------> 🖥️
   
-  <h3>I'm also learning:</h3>
-  
-  <ul>
-    <li>Linux</li>
-    <li>Web Hacking</li>
-    <li>Cybersecurity</li>
   </ul>
+  
 </ul>
 
 <div>
